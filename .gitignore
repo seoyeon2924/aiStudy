@@ -1,0 +1,19 @@
+# Node
+node_modules/
+build/
+.env
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.idea/
+target/
+.gradle/
+build/
+
+# OS
+.DS_Store
